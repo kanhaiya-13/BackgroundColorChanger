@@ -12,3 +12,7 @@ A lightweight web application built with **React**, **Recoil**, and **TailwindCS
 - **Recoil**: Lightweight state management library.
 - **TailwindCSS**: Utility-first CSS framework for styling.
 
+## Screenshot
+![App Screenshot](assets/screenshot(1023).png)
+
+
