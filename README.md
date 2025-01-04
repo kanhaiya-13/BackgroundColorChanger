@@ -13,6 +13,6 @@ A lightweight web application built with **React**, **Recoil**, and **TailwindCS
 - **TailwindCSS**: Utility-first CSS framework for styling.
 
 ## Screenshot
-![App Screenshot](assets/Screenshot.png)
+![App Screenshot](https://github.com/kanhaiya-13/BackgroundColorChanger/blob/main/assests/Screenshot.png)
 
 
