@@ -13,6 +13,6 @@ A lightweight web application built with **React**, **Recoil**, and **TailwindCS
 - **TailwindCSS**: Utility-first CSS framework for styling.
 
 ## Screenshot
-![App Screenshot](assets/screenshot(1023).png)
+![App Screenshot](assets/Screenshot.png)
 
 
